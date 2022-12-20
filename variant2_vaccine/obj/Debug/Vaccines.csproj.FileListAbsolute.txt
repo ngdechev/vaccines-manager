@@ -1,0 +1,28 @@
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe.config
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.pdb
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\Vaccines.csproj.AssemblyReference.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\Vaccines.csproj.SuggestedBindingRedirects.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\Vaccines.csproj.ResolveComReference.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Main.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.PacientInfo.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Vaccines.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Properties.Resources.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\Vaccines.csproj.GenerateResource.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\Vaccines.csproj.CoreCompileInputs.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.exe
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.pdb
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\bin\Debug\variant2_vaccine.exe.config
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\bin\Debug\variant2_vaccine.exe
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\bin\Debug\variant2_vaccine.pdb
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.csproj.AssemblyReference.cache
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.csproj.SuggestedBindingRedirects.cache
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.csproj.ResolveComReference.cache
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.Main.resources
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.PacientInfo.resources
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.Vaccines.resources
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.Properties.Resources.resources
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.csproj.GenerateResource.cache
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\Vaccines.csproj.CoreCompileInputs.cache
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\variant2_vaccine.exe
+E:\University\3-ти курс\5-ти семестър\Технология на Софтуерното Производство\Проекти\Ваксини\Вариант 2\Vaccines\variant2_vaccine\obj\Debug\variant2_vaccine.pdb

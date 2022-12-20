@@ -1,0 +1,40 @@
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe.config
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.pdb
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csprojAssemblyReference.cache
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form1.resources
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Properties.Resources.resources
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.GenerateResource.cache
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.CoreCompileInputs.cache
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.exe
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.pdb
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form2.resources
+C:\Users\Soni\source\repos\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form3.resources
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe.config
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.pdb
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.AssemblyReference.cache
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form1.resources
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form2.resources
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Form3.resources
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Properties.Resources.resources
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.GenerateResource.cache
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.exe
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.pdb
+C:\Users\Personal Computer\Desktop\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.ResolveComReference.cache
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe.config
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.exe
+E:\variant2_vaccine\variant2_vaccine\bin\Debug\variant2_vaccine.pdb
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.AssemblyReference.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.SuggestedBindingRedirects.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.ResolveComReference.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Properties.Resources.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.GenerateResource.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.csproj.CoreCompileInputs.cache
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.exe
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.pdb
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Main.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.PacientInfo.resources
+E:\variant2_vaccine\variant2_vaccine\obj\Debug\variant2_vaccine.Vaccines.resources
