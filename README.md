@@ -3,7 +3,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ngdechev/football-championship)
 
 # Software Production Technology Project
-## Assignment - "Taxi Management Application"
+## Assignment - "Vaccines Management Application"
 
 To create a Vaccine application. For this purpose, three forms should be added.
 1. Add the controls to the first **Form1** (Input):
